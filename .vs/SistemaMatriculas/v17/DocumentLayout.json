@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UML-SCH 10\\Desktop\\Examen\\SistemaMatriculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D1B9F-82C3-4BCD-B27D-7A1CF9ACEAA6}|SistemaMatriculas.csproj|c:\\users\\uml-sch 10\\desktop\\examen\\sistemamatriculas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D4D1B9F-82C3-4BCD-B27D-7A1CF9ACEAA6}|SistemaMatriculas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D1B9F-82C3-4BCD-B27D-7A1CF9ACEAA6}|SistemaMatriculas.csproj|c:\\users\\uml-sch 10\\desktop\\examen\\sistemamatriculas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D4D1B9F-82C3-4BCD-B27D-7A1CF9ACEAA6}|SistemaMatriculas.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\UML-SCH 10\\Desktop\\Examen\\SistemaMatriculas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\UML-SCH 10\\Desktop\\Examen\\SistemaMatriculas\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T18:32:26.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\UML-SCH 10\\Desktop\\Examen\\SistemaMatriculas\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\UML-SCH 10\\Desktop\\Examen\\SistemaMatriculas\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T18:32:20.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
